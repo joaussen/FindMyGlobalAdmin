@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Environment variables
+.env
+*.env
+
+# Virtual environments
+venv/
+env/
+
+# macOS system files
+.DS_Store
+
+# Python packaging files
+*.egg-info/
+dist/
+build/
+
+# Logs and debug output
+*.log
+
+# Azure deployment settings
+*.PublishSettings
+
+# VS Code settings
+.vscode/
